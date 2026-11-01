@@ -1,0 +1,1744 @@
+[
+  {
+    "id": "excel2airtable",
+    "name": "Excel2Airtable",
+    "category": "business",
+    "status": "service",
+    "kind": {
+      "fr": "Service sur mesure",
+      "en": "Bespoke service"
+    },
+    "tag": {
+      "fr": "Vos fichiers Excel deviennent un système de travail clair.",
+      "en": "Turn your Excel files into a clear working system."
+    },
+    "audience": {
+      "fr": "TPE, PME, consultants et équipes administratives.",
+      "en": "Small businesses, consultants and administrative teams."
+    },
+    "problem": {
+      "fr": "Des fichiers dispersés, des doublons et des suivis manuels rendent le travail difficile à partager.",
+      "en": "Scattered files, duplicates and manual tracking make teamwork harder."
+    },
+    "features": [
+      {
+        "fr": "Migration et organisation des données",
+        "en": "Data migration and organization"
+      },
+      {
+        "fr": "Tables reliées et vues adaptées à votre activité",
+        "en": "Linked tables and views tailored to your business"
+      },
+      {
+        "fr": "Interfaces par rôle et automatisations selon le besoin",
+        "en": "Role-based interfaces and automations as needed"
+      },
+      {
+        "fr": "Livraison dans votre espace Airtable",
+        "en": "Delivery in your own Airtable workspace"
+      }
+    ],
+    "story": {
+      "fr": "Mon expérience administrative m’a appris qu’un bon outil commence par un processus clair. Excel2Airtable transforme cette approche en une prestation concrète.",
+      "en": "My administrative experience taught me that a good tool starts with a clear process. Excel2Airtable turns that approach into a practical service."
+    },
+    "stack": [
+      "Airtable",
+      "Make",
+      "Excel"
+    ],
+    "url": "https://www.dictaday.com/avasterlingbiz",
+    "note": {
+      "fr": "Prestation disponible. Le périmètre se définit avec vous ; vous restez propriétaire de votre base, de vos données et de votre abonnement.",
+      "en": "Service available. We define the scope together; you own your base, data and subscription."
+    },
+    "color": "orange",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "dictaday",
+    "name": "DictaDay",
+    "category": "daily",
+    "status": "test",
+    "kind": {
+      "fr": "Assistant vocal",
+      "en": "Voice assistant"
+    },
+    "tag": {
+      "fr": "Videz votre tête le soir. Retrouvez votre plan le matin.",
+      "en": "Clear your head at night. Find your plan in the morning."
+    },
+    "audience": {
+      "fr": "Personnes actives et indépendants qui préfèrent dicter leurs tâches.",
+      "en": "Busy people and freelancers who prefer to dictate tasks."
+    },
+    "problem": {
+      "fr": "Les idées et les tâches s’accumulent au mauvais moment, sans endroit simple où les déposer.",
+      "en": "Ideas and tasks pile up at inconvenient moments, with no simple place to capture them."
+    },
+    "features": [
+      {
+        "fr": "Capture de notes vocales sur Telegram",
+        "en": "Voice-note capture on Telegram"
+      },
+      {
+        "fr": "Transcription et classement des tâches",
+        "en": "Task transcription and categorization"
+      },
+      {
+        "fr": "Récapitulatif et plan d’action matinal",
+        "en": "Morning recap and action plan"
+      },
+      {
+        "fr": "Suivi des tâches confirmées, reportées ou archivées",
+        "en": "Tracking confirmed, postponed or archived tasks"
+      }
+    ],
+    "story": {
+      "fr": "Je voulais vider ma tête le soir sans ouvrir un gestionnaire de tâches. C’est devenu « Vocal, Dodo, Planifié ».",
+      "en": "I wanted to clear my head at night without opening a task manager. That became “Voice, Sleep, Planned”."
+    },
+    "stack": [
+      "Telegram",
+      "Make",
+      "OpenAI",
+      "Google Sheets",
+      "Email"
+    ],
+    "url": "https://www.dictaday.com",
+    "note": {
+      "fr": "V1 fonctionnelle et multi-utilisateur. L’expérience continue à être améliorée, notamment la dictée et les scénarios d’automatisation.",
+      "en": "Functional multi-user V1. The experience is still being improved, including dictation and automation workflows."
+    },
+    "color": "blue",
+    "linkType": "direct",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "mailbee",
+    "name": "MailBee",
+    "category": "business",
+    "status": "operational",
+    "kind": {
+      "fr": "Assistante IA pour Gmail",
+      "en": "AI assistant for Gmail"
+    },
+    "tag": {
+      "fr": "Les emails importants repérés. Les réponses déjà préparées.",
+      "en": "Important emails identified. Replies already drafted."
+    },
+    "audience": {
+      "fr": "Entrepreneurs, consultants, TPE et PME utilisant Gmail.",
+      "en": "Entrepreneurs, consultants and small businesses using Gmail."
+    },
+    "problem": {
+      "fr": "Les demandes importantes se perdent parmi les newsletters et promotions ; préparer chaque réponse prend du temps.",
+      "en": "Important requests get lost among newsletters and promotions; preparing each reply takes time."
+    },
+    "features": [
+      {
+        "fr": "Analyse des nouveaux emails dans Gmail",
+        "en": "Analysis of new emails in Gmail"
+      },
+      {
+        "fr": "Repérage des messages qui nécessitent une réponse",
+        "en": "Identification of messages requiring a reply"
+      },
+      {
+        "fr": "Préparation de brouillons adaptés au contexte",
+        "en": "Preparation of context-aware reply drafts"
+      },
+      {
+        "fr": "Relecture et envoi par l’utilisateur",
+        "en": "User review and sending"
+      }
+    ],
+    "story": {
+      "fr": "Le besoin est né du traitement de boîtes email génériques : retrouver les demandes importantes et préparer les réponses plus vite. Je l’utilise dans mon activité.",
+      "en": "The need came from handling shared inboxes: find important requests and prepare replies faster. I use it in my own business."
+    },
+    "stack": [
+      "Gmail",
+      "Make",
+      "OpenAI"
+    ],
+    "url": "https://www.dictaday.com/avasterlingbiz",
+    "note": {
+      "fr": "Automatisation fonctionnelle, utilisée au quotidien. Les erreurs techniques ont été résolues. MailBee prépare des brouillons ; vous gardez la validation et l’envoi. Démonstration sur demande.",
+      "en": "Functional automation, used daily. Technical errors have been resolved. MailBee prepares drafts; you retain review and sending. Demo on request."
+    },
+    "color": "orange",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "prospection360",
+    "name": "Prospection360",
+    "category": "business",
+    "status": "test",
+    "kind": {
+      "fr": "Micro-SaaS de prospection",
+      "en": "Lead generation micro-SaaS"
+    },
+    "tag": {
+      "fr": "Trouvez des prospects par niche et par ville.",
+      "en": "Find prospects by niche and city."
+    },
+    "audience": {
+      "fr": "Indépendants et petites entreprises qui recherchent des prospects ciblés.",
+      "en": "Freelancers and small businesses looking for targeted prospects."
+    },
+    "problem": {
+      "fr": "Trouver des entreprises pertinentes dans une ville précise demande du temps, et les plateformes peuvent coûter cher.",
+      "en": "Finding relevant businesses in a specific city takes time, and platforms can be expensive."
+    },
+    "features": [
+      {
+        "fr": "Recherche selon une niche précise",
+        "en": "Search by a specific niche"
+      },
+      {
+        "fr": "Ciblage par ville ou localisation",
+        "en": "Targeting by city or location"
+      },
+      {
+        "fr": "Résultats de prospects ciblés",
+        "en": "Targeted business lead results"
+      },
+      {
+        "fr": "100 crédits gratuits au démarrage, 1 crédit par lead",
+        "en": "100 initial free credits, 1 credit per lead"
+      }
+    ],
+    "story": {
+      "fr": "J’avais besoin de trouver des leads dans des niches et des villes précises, sans payer des sommes exorbitantes sur les plateformes.",
+      "en": "I needed leads in specific niches and cities without paying excessive platform fees."
+    },
+    "stack": [
+      "Lovable"
+    ],
+    "url": "https://prospection360.lovable.app/",
+    "note": {
+      "fr": "MVP publié et prêt à tester. Après les crédits gratuits, un accès payant est prévu ; les modalités restent à préciser.",
+      "en": "Published MVP ready to test. Paid access is planned after the free credits; details are still to be defined."
+    },
+    "color": "pink",
+    "linkType": "direct",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "effipv",
+    "name": "EffiPV",
+    "category": "business",
+    "status": "test",
+    "kind": {
+      "fr": "Automatisation documentaire",
+      "en": "Document automation"
+    },
+    "tag": {
+      "fr": "Des notes de réunion à un procès-verbal structuré.",
+      "en": "From meeting notes to structured minutes."
+    },
+    "audience": {
+      "fr": "Équipes, associations et responsables qui rédigent des comptes rendus.",
+      "en": "Teams, associations and managers who write meeting minutes."
+    },
+    "problem": {
+      "fr": "Transformer des notes en un document lisible prend du temps après chaque réunion.",
+      "en": "Turning notes into a readable document takes time after each meeting."
+    },
+    "features": [
+      {
+        "fr": "Collecte des informations via formulaire",
+        "en": "Collect meeting information through a form"
+      },
+      {
+        "fr": "Génération d’un brouillon structuré",
+        "en": "Generate a structured draft"
+      },
+      {
+        "fr": "Création du document dans Google Docs",
+        "en": "Create the document in Google Docs"
+      },
+      {
+        "fr": "Transmission par email pour relecture et validation",
+        "en": "Email delivery for review and approval"
+      }
+    ],
+    "story": {
+      "fr": "Je connais le temps que prend la rédaction d’un procès-verbal. EffiPV part de notes et conserve une étape humaine de relecture et de validation.",
+      "en": "I know how long meeting minutes take to write. EffiPV starts from notes and keeps a human review and approval step."
+    },
+    "stack": [
+      "Tally",
+      "Make",
+      "OpenAI",
+      "Google Docs",
+      "Google Drive",
+      "Email"
+    ],
+    "url": "https://www.dictaday.com/effi-proces-verbaux",
+    "note": {
+      "fr": "Workflow construit et testé sur ordinateur et mobile. Les documents générés sont des brouillons à relire et valider.",
+      "en": "Workflow built and tested on desktop and mobile. Generated documents are drafts to review and approve."
+    },
+    "color": "blue",
+    "linkType": "direct",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "follow2connect",
+    "name": "Follow2Connect",
+    "category": "business",
+    "status": "test",
+    "kind": {
+      "fr": "Application de networking",
+      "en": "Networking app"
+    },
+    "tag": {
+      "fr": "Une rencontre ne devrait pas se perdre dans votre téléphone.",
+      "en": "A good connection should not get lost in your phone."
+    },
+    "audience": {
+      "fr": "Professionnels qui rencontrent des contacts lors d’événements ou de sorties.",
+      "en": "Professionals meeting contacts at events or while out."
+    },
+    "problem": {
+      "fr": "On rencontre des personnes intéressantes, puis on oublie le contexte ou le bon moment pour les recontacter.",
+      "en": "We meet interesting people, then forget the context or the right time to follow up."
+    },
+    "features": [
+      {
+        "fr": "Fiches contacts et contexte de rencontre",
+        "en": "Contact records and meeting context"
+      },
+      {
+        "fr": "Date, notes et prochaine relance",
+        "en": "Dates, notes and next follow-up"
+      },
+      {
+        "fr": "Tableau de bord des contacts à recontacter",
+        "en": "Dashboard of contacts to follow up with"
+      },
+      {
+        "fr": "Suivi du statut « Contacté OK »",
+        "en": "“Contacted OK” status tracking"
+      }
+    ],
+    "story": {
+      "fr": "L’idée est née de mes rencontres professionnelles : garder une trace utile et donner une suite aux échanges.",
+      "en": "The idea grew from my professional encounters: keep useful context and follow through on conversations."
+    },
+    "stack": [
+      "Replit"
+    ],
+    "url": "https://follow2connect.replit.app/",
+    "note": {
+      "fr": "Application toujours testable, gratuite actuellement.",
+      "en": "App still available to test, currently free."
+    },
+    "color": "orange",
+    "linkType": "direct",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "solomaiscarre",
+    "name": "SoloMaisCarré",
+    "category": "business",
+    "status": "test",
+    "kind": {
+      "fr": "Tableau de bord pour indépendants",
+      "en": "Freelancer dashboard"
+    },
+    "tag": {
+      "fr": "Indépendant, avec vos obligations et documents sous contrôle.",
+      "en": "Independent, with your obligations and documents under control."
+    },
+    "audience": {
+      "fr": "Freelances et solopreneurs, notamment en France.",
+      "en": "Freelancers and solopreneurs, especially in France."
+    },
+    "problem": {
+      "fr": "Les échéances, frais professionnels et documents se dispersent entre plusieurs outils.",
+      "en": "Deadlines, business expenses and documents get scattered across different tools."
+    },
+    "features": [
+      {
+        "fr": "Suivi des obligations et échéances administratives",
+        "en": "Track administrative obligations and deadlines"
+      },
+      {
+        "fr": "Organisation des frais professionnels",
+        "en": "Organize business expenses"
+      },
+      {
+        "fr": "Espace de dépôt et rangement des documents",
+        "en": "Document upload and organization space"
+      },
+      {
+        "fr": "Suivi des formations et du développement personnel",
+        "en": "Track training and personal development"
+      }
+    ],
+    "story": {
+      "fr": "Un besoin très concret d’indépendante : réunir les rappels administratifs et les informations de son activité dans un seul espace.",
+      "en": "A practical freelancer need: bring administrative reminders and business information into one place."
+    },
+    "stack": [
+      "Replit"
+    ],
+    "url": "https://solomaiscarre-dashboard.replit.app/",
+    "note": {
+      "fr": "Tableau de bord accessible. Le problème de sauvegarde des données après déconnexion a été résolu.",
+      "en": "Dashboard available. The data persistence issue after logout has been resolved."
+    },
+    "color": "blue",
+    "linkType": "direct",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "nia",
+    "name": "NIA",
+    "category": "business",
+    "status": "build",
+    "kind": {
+      "fr": "Partenaire IA commercial",
+      "en": "AI business partner"
+    },
+    "tag": {
+      "fr": "Une base structurée pour suivre vos opportunités commerciales.",
+      "en": "A structured base for tracking business opportunities."
+    },
+    "audience": {
+      "fr": "Mon activité, avec une approche pouvant inspirer un système commercial sur mesure.",
+      "en": "My business, with an approach that can inspire a bespoke sales system."
+    },
+    "problem": {
+      "fr": "Les opportunités arrivent par plusieurs canaux et les relances deviennent difficiles à suivre.",
+      "en": "Opportunities arrive through different channels and follow-ups become difficult to track."
+    },
+    "features": [
+      {
+        "fr": "Opportunités et prospects reliés",
+        "en": "Linked opportunities and prospects"
+      },
+      {
+        "fr": "Actions, relances et catalogue d’offres",
+        "en": "Actions, follow-ups and offer catalog"
+      },
+      {
+        "fr": "Sources et journal de suivi NIA",
+        "en": "Sources and NIA activity log"
+      },
+      {
+        "fr": "Champs de validation humaine",
+        "en": "Human approval fields"
+      }
+    ],
+    "story": {
+      "fr": "Pendant que je construis mes projets, je veux mieux repérer et suivre les opportunités. NIA est née pour soutenir ce développement commercial.",
+      "en": "While I build my projects, I want to spot and track opportunities better. NIA was created to support that business development."
+    },
+    "stack": [
+      "Airtable",
+      "Make",
+      "Gmail"
+    ],
+    "url": "https://www.dictaday.com/avasterlingbiz",
+    "note": {
+      "fr": "Base Airtable dédiée et scénario Make créés, avec connexions Gmail et Airtable. Configuration et fiabilisation du filtre de qualification et du mapping des messages en cours ; autonomie complète non confirmée.",
+      "en": "Dedicated Airtable base and Make scenario created, with Gmail and Airtable connections. Qualification filters and message mapping are being configured and tested; full autonomy is not yet confirmed."
+    },
+    "color": "pink",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "effivoeux",
+    "name": "EffiVœux",
+    "category": "business",
+    "status": "test",
+    "kind": {
+      "fr": "Automatisation d’envois",
+      "en": "Message automation"
+    },
+    "tag": {
+      "fr": "Des envois personnalisés, avec un suivi propre.",
+      "en": "Personalized messages with clear tracking."
+    },
+    "audience": {
+      "fr": "Entreprises, associations et équipes qui envoient vœux ou invitations.",
+      "en": "Businesses, associations and teams sending greetings or invitations."
+    },
+    "problem": {
+      "fr": "Personnaliser et suivre des envois répétitifs prend du temps et favorise les oublis.",
+      "en": "Personalizing and tracking repetitive messages takes time and makes omissions more likely."
+    },
+    "features": [
+      {
+        "fr": "Messages personnalisés depuis une liste de contacts",
+        "en": "Personalized messages from a contact list"
+      },
+      {
+        "fr": "Envoi de pièces jointes",
+        "en": "Attachment delivery"
+      },
+      {
+        "fr": "Mise à jour du statut « Contacté »",
+        "en": "“Contacted” status updates"
+      },
+      {
+        "fr": "Usage pour vœux et invitations",
+        "en": "Use for greetings and invitations"
+      }
+    ],
+    "story": {
+      "fr": "Envoyer des cartes de vœux ou des invitations sans répéter les mêmes gestes, tout en gardant une personnalisation.",
+      "en": "Send greetings or invitations without repeating the same steps, while keeping messages personal."
+    },
+    "stack": [
+      "Google Sheets",
+      "Gmail",
+      "Make / Apps Script"
+    ],
+    "url": "https://www.dictaday.com/avasterlingbiz",
+    "note": {
+      "fr": "Automatisation fonctionnelle. La commercialisation comme offre autonome reste à définir.",
+      "en": "Functional automation. Packaging it as a standalone offer is still to be defined."
+    },
+    "color": "orange",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "effimetiers",
+    "name": "EffiMétiers",
+    "category": "business",
+    "status": "test",
+    "kind": {
+      "fr": "Fidélisation et mémoire client pour artisans",
+      "en": "Customer retention and history for tradespeople"
+    },
+    "tag": {
+      "fr": "Restez l’artisan auquel vos clients pensent en premier.",
+      "en": "Stay the first tradesperson your customers think of."
+    },
+    "audience": {
+      "fr": "Artisans de la verdure, de la rénovation et du chauffage.",
+      "en": "Landscaping, renovation and heating tradespeople."
+    },
+    "problem": {
+      "fr": "Entre deux interventions, le client peut oublier son artisan et chercher ailleurs. Les informations, coûts, commentaires et photos doivent rester accessibles pour préparer la prochaine relance.",
+      "en": "Between visits, a customer may forget their tradesperson and look elsewhere. Information, costs, comments and photos need to stay accessible to prepare the next follow-up."
+    },
+    "features": [
+      {
+        "fr": "Fiche client complète et historique des interventions",
+        "en": "Complete customer record and visit history"
+      },
+      {
+        "fr": "Coûts, commentaires et photos avant/après réunis",
+        "en": "Costs, comments and before-and-after photos in one place"
+      },
+      {
+        "fr": "Rappel anticipé pour préparer la prochaine intervention",
+        "en": "Early reminder to prepare the next visit"
+      },
+      {
+        "fr": "L’outil rappelle ; l’artisan contacte lui-même son client",
+        "en": "The tool sends a reminder; the tradesperson contacts the customer personally"
+      },
+      {
+        "fr": "Galerie avant/après pour présenter son travail à de futurs clients",
+        "en": "Before-and-after gallery to show work to prospective customers"
+      },
+      {
+        "fr": "EffiVerdure, EffiRénovations et EffiChauffage : trois déclinaisons métier",
+        "en": "EffiVerdure, EffiRénovations and EffiChauffage: three trade-specific versions"
+      }
+    ],
+    "story": {
+      "fr": "Après une intervention, l’artisan connaît le besoin à venir. EffiMétiers conserve son historique et lui rappelle de reprendre contact suffisamment tôt pour rester présent dans l’esprit du client.",
+      "en": "After a visit, the tradesperson knows what may be needed next. EffiMétiers keeps the history and reminds them to get back in touch early enough to stay on the customer’s mind."
+    },
+    "stack": [
+      "Airtable",
+      "Make"
+    ],
+    "url": "https://www.dictaday.com/effi-metiers",
+    "note": {
+      "fr": "EffiVerdure, EffiRénovations et EffiChauffage sont prêts à être testés. EffiRénovation a déjà été testé par un artisan ; aucun retour détaillé n’a encore été recueilli.",
+      "en": "EffiVerdure, EffiRénovations and EffiChauffage are ready to test. EffiRénovation has already been tested by a tradesperson; detailed feedback has not yet been received."
+    },
+    "color": "orange",
+    "example": {
+      "fr": "Le 1er juillet, Jack tond la pelouse de Mme Machin. Il enregistre les photos avant/après, le coût et ses commentaires. Une nouvelle tonte serait souhaitable environ cinq semaines plus tard. L’outil lui rappelle le 22 juillet, après trois semaines, de reprendre contact : Jack relance lui-même Mme Machin, avant qu’elle ait besoin de chercher un autre artisan. Sa galerie lui sert aussi à montrer son travail à de futurs clients.",
+      "en": "On 1 July, Jack mows Mrs Machin’s lawn. He records before-and-after photos, the cost and his comments. Another mow would ideally be needed about five weeks later. On 22 July, after three weeks, the tool reminds him to get back in touch: Jack contacts Mrs Machin himself before she needs to look for someone else. His gallery also helps him show his work to prospective customers."
+    },
+    "linkType": "direct",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "coeursunis",
+    "name": "CœursUnis · LeCarnetMariage",
+    "category": "business",
+    "status": "build",
+    "kind": {
+      "fr": "Outil pour wedding planners",
+      "en": "Wedding planner tool"
+    },
+    "tag": {
+      "fr": "Tous les éléments d’un mariage au même endroit.",
+      "en": "Every part of a wedding in one place."
+    },
+    "audience": {
+      "fr": "Wedding planners, avec un focus envisagé sur l’Afrique francophone.",
+      "en": "Wedding planners, with a proposed focus on French-speaking Africa."
+    },
+    "problem": {
+      "fr": "Des mariages suivis dans Excel avec « mille onglets » deviennent difficiles à coordonner.",
+      "en": "Weddings tracked in Excel with “a thousand tabs” become difficult to coordinate."
+    },
+    "features": [
+      {
+        "fr": "Clients et dossiers de mariage",
+        "en": "Clients and wedding records"
+      },
+      {
+        "fr": "Invités et RSVP",
+        "en": "Guests and RSVPs"
+      },
+      {
+        "fr": "Prestataires, lieux et budget",
+        "en": "Vendors, venues and budgets"
+      },
+      {
+        "fr": "Tâches et suivi de l’organisation",
+        "en": "Tasks and planning follow-up"
+      }
+    ],
+    "story": {
+      "fr": "Une wedding planner gérait encore ses mariages avec Excel et une multitude d’onglets. J’ai voulu réunir l’organisation dans un système plus lisible.",
+      "en": "A wedding planner was managing weddings in Excel with countless tabs. I wanted to bring planning into a clearer system."
+    },
+    "stack": [
+      "Airtable Interfaces",
+      "Make"
+    ],
+    "url": "https://www.dictaday.com/avasterlingbiz",
+    "note": {
+      "fr": "MVP Airtable travaillé. La cible professionnelle et le périmètre final restent à stabiliser.",
+      "en": "Airtable MVP developed. The professional audience and final scope are still being refined."
+    },
+    "color": "pink",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "batlas",
+    "name": "BAtlas · Business Atlas",
+    "category": "business",
+    "status": "test",
+    "kind": {
+      "fr": "Plateforme économique locale",
+      "en": "Local business platform"
+    },
+    "tag": {
+      "fr": "Les acteurs et opportunités d’une ville deviennent visibles.",
+      "en": "Make a city’s businesses and opportunities visible."
+    },
+    "audience": {
+      "fr": "Acteurs économiques locaux, habitants, entreprises et collectivités.",
+      "en": "Local businesses, residents and municipalities."
+    },
+    "problem": {
+      "fr": "Les informations économiques locales sont dispersées entre sites, réseaux et institutions.",
+      "en": "Local business information is scattered across websites, networks and institutions."
+    },
+    "features": [
+      {
+        "fr": "Annuaire d’acteurs locaux",
+        "en": "Directory of local businesses"
+      },
+      {
+        "fr": "Événements et actualités",
+        "en": "Events and news"
+      },
+      {
+        "fr": "Opportunités locales",
+        "en": "Local opportunities"
+      },
+      {
+        "fr": "Rubriques stages et alternance",
+        "en": "Internship and apprenticeship sections"
+      }
+    ],
+    "story": {
+      "fr": "Rendre l’information économique locale plus facile à trouver. Sannois Business Atlas est le premier prototype de cette approche.",
+      "en": "Make local business information easier to find. Sannois Business Atlas is the first prototype of this approach."
+    },
+    "stack": [
+      "Lovable",
+      "GitHub",
+      "Vercel"
+    ],
+    "url": "https://sannois-business-atlas.vercel.app/",
+    "note": {
+      "fr": "Prototype en ligne. Une adaptation pour d’autres communes est une piste à développer.",
+      "en": "Online prototype. Adaptation for other municipalities is a possible next step."
+    },
+    "color": "blue",
+    "linkType": "direct",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "60before9",
+    "name": "60Before9",
+    "category": "daily",
+    "status": "test",
+    "kind": {
+      "fr": "Application mobile Android",
+      "en": "Android mobile app"
+    },
+    "tag": {
+      "fr": "Marchez avant de scroller. Reprenez votre matinée.",
+      "en": "Walk before you scroll. Reclaim your morning."
+    },
+    "audience": {
+      "fr": "Personnes qui veulent retrouver une routine de marche matinale.",
+      "en": "People who want to restore a morning walking routine."
+    },
+    "problem": {
+      "fr": "Une heure de scrolling au réveil peut remplacer le temps que l’on voulait consacrer à soi.",
+      "en": "An hour of scrolling after waking can replace the time we wanted for ourselves."
+    },
+    "features": [
+      {
+        "fr": "Objectif : 60 minutes et 3 000 pas réels avant 9 h",
+        "en": "Goal: 60 minutes and 3,000 real steps before 9 AM"
+      },
+      {
+        "fr": "Accès aux réseaux conditionné à la marche matinale",
+        "en": "Social app access conditional on the morning walk"
+      },
+      {
+        "fr": "Musique, podcasts, Maps et appels restent accessibles",
+        "en": "Music, podcasts, Maps and calls remain accessible"
+      },
+      {
+        "fr": "Mode de test court pour vérifier le fonctionnement",
+        "en": "Short test mode to check behavior"
+      }
+    ],
+    "story": {
+      "fr": "Je marchais une heure chaque matin, puis le scrolling a pris cette place. 60Before9 change l’ordre : d’abord la marche, ensuite les réseaux.",
+      "en": "I used to walk an hour each morning, then scrolling took its place. 60Before9 changes the order: walk first, social apps afterwards."
+    },
+    "stack": [
+      "Replit",
+      "React Native",
+      "Expo",
+      "Android",
+      "GitHub Actions"
+    ],
+    "url": "https://www.dictaday.com/avasterlingbiz",
+    "note": {
+      "fr": "APK Android installé sur un téléphone Realme. Tests courts réussis ; validation complète lors d’une marche réelle d’une heure encore à effectuer. Pas de téléchargement public.",
+      "en": "Android APK installed on a Realme phone. Short tests passed; full validation during a real one-hour walk remains to be completed. No public download."
+    },
+    "color": "orange",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "carnet-voyage",
+    "name": "Carnet de Voyage",
+    "category": "daily",
+    "status": "test",
+    "kind": {
+      "fr": "Application de récit de voyage",
+      "en": "Travel storytelling app"
+    },
+    "tag": {
+      "fr": "Composez le récit de vos voyages, au fil des étapes.",
+      "en": "Tell the story of your travels, step by step."
+    },
+    "audience": {
+      "fr": "Voyageurs qui souhaitent conserver et partager leurs souvenirs.",
+      "en": "Travelers who want to preserve and share their memories."
+    },
+    "problem": {
+      "fr": "Photos, étapes et anecdotes restent éparpillées et le récit du voyage se perd.",
+      "en": "Photos, trip stages and anecdotes get scattered and the travel story gets lost."
+    },
+    "features": [
+      {
+        "fr": "Bibliothèque de plusieurs carnets",
+        "en": "Library of travel journals"
+      },
+      {
+        "fr": "Destination, dates et couverture",
+        "en": "Destination, dates and cover"
+      },
+      {
+        "fr": "Journal avec textes, photos et étapes",
+        "en": "Journal with text, photos and trip stages"
+      },
+      {
+        "fr": "Aperçu du récit et lien de partage",
+        "en": "Story overview and sharing link"
+      }
+    ],
+    "story": {
+      "fr": "Mon carnet AfriQuest25 a commencé dans Notion. Je l’ai transformé en application Lovable pour composer et partager mes récits plus simplement.",
+      "en": "My AfriQuest25 journal started in Notion. I turned it into a Lovable app to compose and share my stories more simply."
+    },
+    "stack": [
+      "Lovable"
+    ],
+    "url": "https://carnet-de-vacances.lovable.app/",
+    "note": {
+      "fr": "Application toujours testable, gratuite pour le moment.",
+      "en": "App still available to test, currently free."
+    },
+    "color": "pink",
+    "linkType": "direct",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "pontenfant",
+    "name": "PontEnfant",
+    "category": "family",
+    "status": "concept",
+    "kind": {
+      "fr": "Application familiale envisagée",
+      "en": "Planned family app"
+    },
+    "tag": {
+      "fr": "Les informations des enfants circulent plus sereinement.",
+      "en": "Help children’s information flow more calmly."
+    },
+    "audience": {
+      "fr": "Parents séparés qui souhaitent organiser les informations de leurs enfants.",
+      "en": "Separated parents who want to organize information about their children."
+    },
+    "problem": {
+      "fr": "Partager les informations importantes peut devenir difficile lorsque les échanges directs sont compliqués.",
+      "en": "Sharing important information can become difficult when direct communication is strained."
+    },
+    "features": [
+      {
+        "fr": "Espace d’informations par enfant",
+        "en": "Information space for each child"
+      },
+      {
+        "fr": "École, santé et activités",
+        "en": "School, health and activities"
+      },
+      {
+        "fr": "Documents et mises à jour",
+        "en": "Documents and updates"
+      },
+      {
+        "fr": "Vacances et organisation familiale",
+        "en": "Holidays and family organization"
+      }
+    ],
+    "story": {
+      "fr": "Aider les parents séparés à faire circuler l’essentiel concernant leurs enfants, sans dépendre d’échanges directs.",
+      "en": "Help separated parents share essential information about their children without relying on direct exchanges."
+    },
+    "stack": [
+      "Stack à définir / To be defined"
+    ],
+    "url": "https://www.dictaday.com/avasterlingbiz",
+    "note": {
+      "fr": "Concept et expérience utilisateur structurés. Aucun produit public disponible à ce stade ; sécurité et confidentialité font partie du cadrage.",
+      "en": "Concept and user experience outlined. No public product at this stage; security and privacy are part of scoping."
+    },
+    "color": "blue",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "ton-epoque",
+    "name": "Fais-moi vivre ton époque",
+    "category": "family",
+    "status": "concept",
+    "kind": {
+      "fr": "Programme familial digital envisagé",
+      "en": "Planned digital family program"
+    },
+    "tag": {
+      "fr": "Les souvenirs d’une génération deviennent un héritage partagé.",
+      "en": "Turn a generation’s memories into a shared legacy."
+    },
+    "audience": {
+      "fr": "Familles et enfants adultes qui veulent préserver les souvenirs de leurs aînés.",
+      "en": "Families and adult children wanting to preserve older relatives’ memories."
+    },
+    "problem": {
+      "fr": "Les souvenirs risquent de disparaître lorsqu’on ne prend pas le temps de les recueillir.",
+      "en": "Memories can disappear when we do not take the time to collect them."
+    },
+    "features": [
+      {
+        "fr": "Programme de questions sur 12 semaines envisagé",
+        "en": "Planned 12-week question program"
+      },
+      {
+        "fr": "Réponses du senior en texte ou audio",
+        "en": "Older relative’s text or audio answers"
+      },
+      {
+        "fr": "Lecture et échanges avec la famille",
+        "en": "Reading and discussion with family"
+      },
+      {
+        "fr": "Conservation des récits familiaux",
+        "en": "Preservation of family stories"
+      }
+    ],
+    "story": {
+      "fr": "Donner aux aînés un espace pour raconter leur époque et aux familles une façon de garder cette mémoire.",
+      "en": "Give older relatives a place to tell the story of their time and families a way to keep those memories."
+    },
+    "stack": [
+      "Stack à définir / To be defined"
+    ],
+    "url": "https://www.dictaday.com/avasterlingbiz",
+    "note": {
+      "fr": "Concept à valider. Le format et l’expérience pour les seniors restent à concevoir.",
+      "en": "Concept to validate. The format and older adults’ experience still need design."
+    },
+    "color": "pink",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "zero-tracas",
+    "name": "Zéro Tracas Gestion Admin",
+    "category": "business",
+    "status": "concept",
+    "kind": {
+      "fr": "Assistant administratif IA envisagé",
+      "en": "Planned AI admin assistant"
+    },
+    "tag": {
+      "fr": "Dictez une tâche. Retrouvez-la au bon endroit.",
+      "en": "Dictate a task. Find it in the right place."
+    },
+    "audience": {
+      "fr": "Assistantes administratives, notamment en Afrique francophone.",
+      "en": "Administrative assistants, particularly in French-speaking Africa."
+    },
+    "problem": {
+      "fr": "Les tâches se dispersent entre carnets, WhatsApp et mémoire, ce qui complique le suivi.",
+      "en": "Tasks get scattered across notebooks, WhatsApp and memory, making tracking difficult."
+    },
+    "features": [
+      {
+        "fr": "Saisie écrite ou vocale sur Telegram envisagée",
+        "en": "Planned written or voice input on Telegram"
+      },
+      {
+        "fr": "Classement des tâches par IA",
+        "en": "AI task categorization"
+      },
+      {
+        "fr": "Centralisation dans Airtable",
+        "en": "Centralization in Airtable"
+      },
+      {
+        "fr": "Organisation du suivi administratif",
+        "en": "Administrative follow-up organization"
+      }
+    ],
+    "story": {
+      "fr": "Les assistantes gèrent une multitude de demandes. Je veux leur permettre de les capturer simplement et de les retrouver dans un système organisé.",
+      "en": "Assistants handle many requests. I want them to capture those requests easily and find them in an organized system."
+    },
+    "stack": [
+      "Telegram",
+      "IA / AI",
+      "Airtable",
+      "Make"
+    ],
+    "url": "https://www.dictaday.com/avasterlingbiz",
+    "note": {
+      "fr": "Concept. Le besoin terrain et le périmètre doivent être validés avant construction.",
+      "en": "Concept. Field demand and scope need validation before building."
+    },
+    "color": "orange",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "entrenous",
+    "name": "EntreNous.Point",
+    "category": "community",
+    "status": "operational",
+    "kind": {
+      "fr": "Jeu interactif de groupe",
+      "en": "Interactive group game"
+    },
+    "tag": {
+      "fr": "Le jeu interactif qui libère la parole.",
+      "en": "The interactive game that gets people talking."
+    },
+    "audience": {
+      "fr": "RH, entreprises, associations, animateurs de team building, séminaires et ateliers, ainsi que groupes d’amis.",
+      "en": "HR teams, businesses, associations, team-building facilitators, seminars, workshops and groups of friends."
+    },
+    "problem": {
+      "fr": "La pression du groupe peut freiner les réponses franches. Un jeu interactif facilite la participation et ouvre la discussion.",
+      "en": "Group pressure can hold back honest answers. An interactive game helps everyone participate and opens up discussion."
+    },
+    "features": [
+      {
+        "fr": "Questionnaire interactif depuis le téléphone",
+        "en": "Interactive questionnaire on each participant’s phone"
+      },
+      {
+        "fr": "Réponses anonymes et résultats collectifs en direct",
+        "en": "Anonymous answers and live group results"
+      },
+      {
+        "fr": "Tableau de bord pour animer les échanges",
+        "en": "Dashboard to facilitate discussion"
+      },
+      {
+        "fr": "Effacement automatique des données de session à minuit",
+        "en": "Automatic deletion of session data at midnight"
+      }
+    ],
+    "story": {
+      "fr": "Créer un espace de parole où l’on peut répondre honnêtement sans subir la pression d’un groupe.",
+      "en": "Create a space where people can answer honestly without group pressure."
+    },
+    "stack": [
+      "Application web / Web app"
+    ],
+    "url": "https://www.dictaday.com/avasterlingbiz",
+    "note": {
+      "fr": "Application construite, fonctionnelle et testée lors de deux événements. Les inscriptions recueillent des emails ; le volet RGPD reste à finaliser avant de développer la prospection auprès des RH et des organisateurs. Démonstration sur demande.",
+      "en": "Built, functional app tested at two events. Registration collects email addresses; GDPR work remains to be finalized before expanding outreach to HR teams and event organizers. Demo on request."
+    },
+    "color": "blue",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "assistpro",
+    "name": "AssistPro Africa · Le Cercle",
+    "category": "community",
+    "status": "live",
+    "kind": {
+      "fr": "Communauté d’entraide",
+      "en": "Peer community"
+    },
+    "tag": {
+      "fr": "Mieux organiser son travail, ensemble.",
+      "en": "Organize work better, together."
+    },
+    "audience": {
+      "fr": "Assistantes administratives africaines francophones déjà en poste, souhaitant exceller dans leur fonction.",
+      "en": "French-speaking administrative assistants working in Africa who want to excel in their current role."
+    },
+    "problem": {
+      "fr": "Les assistantes ont besoin d’échanger sur leurs pratiques et de trouver des ressources adaptées au quotidien.",
+      "en": "Assistants need to exchange practical experience and find resources that fit daily work."
+    },
+    "features": [
+      {
+        "fr": "Annonces et actualités",
+        "en": "Announcements and news"
+      },
+      {
+        "fr": "Bibliothèque de ressources",
+        "en": "Resource library"
+      },
+      {
+        "fr": "Salon d’échanges entre assistantes",
+        "en": "Discussion space for assistants"
+      },
+      {
+        "fr": "Démonstrations pratiques et partage de modèles",
+        "en": "Practical demonstrations and template sharing"
+      }
+    ],
+    "story": {
+      "fr": "Créer un espace accessible de partage et d’entraide pour les assistantes. WhatsApp facilite les échanges avec le public africain.",
+      "en": "Create an accessible space for assistants to share and help each other. WhatsApp makes interaction easier for an African audience."
+    },
+    "stack": [
+      "WhatsApp",
+      "Google Meet",
+      "Google Drive"
+    ],
+    "url": "https://www.dictaday.com/avasterlingbiz",
+    "note": {
+      "fr": "Communauté WhatsApp gratuite et opérationnelle : échanges, annonces et ressources pour les assistantes administratives africaines. Contactez-moi pour rejoindre Le Cercle.",
+      "en": "Free, active WhatsApp community: discussions, announcements and resources for administrative assistants in Africa. Contact me to join Le Cercle."
+    },
+    "color": "pink",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "seniorcare",
+    "name": "SeniorCare",
+    "category": "business",
+    "status": "demo",
+    "kind": {
+      "fr": "Automatisation de coordination",
+      "en": "Coordination automation"
+    },
+    "tag": {
+      "fr": "Chaque intervention auprès d’un senior, suivie du début à la fin.",
+      "en": "Every senior care visit tracked from start to finish."
+    },
+    "audience": {
+      "fr": "Services d’aide à domicile, associations, CCAS et agences spécialisées.",
+      "en": "Home-care services, nonprofits, local social services and specialist agencies."
+    },
+    "problem": {
+      "fr": "Demandes, affectations et nouvelles aux proches circulent entre emails, appels et tableaux, avec des risques d’oubli.",
+      "en": "Requests, assignments and family updates are scattered across emails, calls and spreadsheets, making omissions more likely."
+    },
+    "features": [
+      {
+        "fr": "Collecte des demandes et fiches bénéficiaires",
+        "en": "Request collection and beneficiary records"
+      },
+      {
+        "fr": "Affectation des interventions et suivi dans Airtable",
+        "en": "Visit assignment and tracking in Airtable"
+      },
+      {
+        "fr": "Confirmations, rappels et notifications aux proches",
+        "en": "Confirmations, reminders and family notifications"
+      },
+      {
+        "fr": "Recueil de satisfaction et suivi de l’activité",
+        "en": "Feedback collection and activity tracking"
+      }
+    ],
+    "story": {
+      "fr": "D’abord nommé Move&Care, ce projet vise à simplifier la coordination des interventions et à tenir les proches informés, des courses aux rendez-vous médicaux.",
+      "en": "Originally called Move&Care, this project simplifies visit coordination and keeps relatives informed, from errands to medical appointments."
+    },
+    "stack": [
+      "Tally",
+      "Make",
+      "Airtable"
+    ],
+    "url": "https://www.dictaday.com/avasterlingbiz",
+    "note": {
+      "fr": "Solution construite et prête pour une démonstration sur demande. Le catalogue présente la solution ; l’accès à l’outil se fait lors de la démonstration.",
+      "en": "Built solution ready for a demo on request. The catalog introduces the solution; access to the tool is provided during the demonstration."
+    },
+    "color": "blue",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "vigi",
+    "name": "VIGI",
+    "category": "business",
+    "status": "operational",
+    "kind": {
+      "fr": "Agent de veille e-mail",
+      "en": "Email monitoring agent"
+    },
+    "tag": {
+      "fr": "Les messages importants remontent au bon moment.",
+      "en": "Bring important messages to attention at the right time."
+    },
+    "audience": {
+      "fr": "Mon activité et les personnes qui reçoivent de nombreux e-mails.",
+      "en": "My business and people managing busy inboxes."
+    },
+    "problem": {
+      "fr": "Les demandes prioritaires et les échéances peuvent se perdre dans une boîte de réception chargée.",
+      "en": "Priority requests and deadlines can get lost in a busy inbox."
+    },
+    "features": [
+      {
+        "fr": "Vérification horaire des nouveaux e-mails",
+        "en": "Hourly checks of new emails"
+      },
+      {
+        "fr": "Repérage des demandes prioritaires",
+        "en": "Identify priority requests"
+      },
+      {
+        "fr": "Signalement des échéances proches",
+        "en": "Flag approaching deadlines"
+      }
+    ],
+    "story": {
+      "fr": "Un agent pour garder un œil sur mes e-mails pendant que je travaille.",
+      "en": "An agent to keep an eye on my inbox while I work."
+    },
+    "stack": [
+      "Gmail",
+      "ChatGPT Automations"
+    ],
+    "url": "",
+    "note": {
+      "fr": "Veille Gmail prioritaire configurée et active. Outil personnel, sans accès public.",
+      "en": "Priority Gmail monitoring configured and active. Personal tool with no public access."
+    },
+    "color": "blue",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "monplatdujour",
+    "name": "MonPlatDuJour",
+    "category": "business",
+    "status": "test",
+    "kind": {
+      "fr": "Application de commandes de repas",
+      "en": "Meal-ordering app"
+    },
+    "tag": {
+      "fr": "Le menu de demain, des commandes simples.",
+      "en": "Tomorrow’s menu, simple orders."
+    },
+    "audience": {
+      "fr": "Petites vendeuses de repas faits maison livrant des bureaux à Abidjan.",
+      "en": "Small home-cooked meal sellers delivering to offices in Abidjan."
+    },
+    "problem": {
+      "fr": "Les commandes éparpillées dans les messages compliquent la préparation des repas.",
+      "en": "Orders scattered across messages make meal preparation harder."
+    },
+    "features": [
+      {
+        "fr": "Bibliothèque visuelle de plats et prix personnalisables",
+        "en": "Visual dish library and editable prices"
+      },
+      {
+        "fr": "QR code permanent vers le menu du lendemain",
+        "en": "Permanent QR code for tomorrow’s menu"
+      },
+      {
+        "fr": "Numéro de commande et annulation jusqu’à l’heure limite",
+        "en": "Order number and cancellation until a cutoff"
+      },
+      {
+        "fr": "Quantités et montant théorique à percevoir, sans suivi de paiement",
+        "en": "Quantities and theoretical amount due, without payment tracking"
+      }
+    ],
+    "story": {
+      "fr": "Un outil très simple, pensé pour les vendeuses qui ne souhaitent pas rédiger de longs menus ni prendre leurs propres photos.",
+      "en": "A simple tool for sellers who do not want to write long menus or take their own photos."
+    },
+    "stack": [
+      "Application web / Web app"
+    ],
+    "url": "",
+    "note": {
+      "fr": "MVP construit et testé le 29 octobre. Stabilisation avant recherche de bêta-testeuses à Abidjan. Aucun paiement en ligne.",
+      "en": "MVP built and tested on 29 October. Stabilization before recruiting beta testers in Abidjan. No online payments."
+    },
+    "color": "orange",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "ava-pagemaker",
+    "name": "AVA PageMaker",
+    "category": "business",
+    "status": "concept",
+    "kind": {
+      "fr": "Agent de création de pages envisagé",
+      "en": "Planned page-creation agent"
+    },
+    "tag": {
+      "fr": "Une page claire pour chaque création.",
+      "en": "A clear page for every creation."
+    },
+    "audience": {
+      "fr": "Créatrices de solutions et petites entreprises.",
+      "en": "Solution creators and small businesses."
+    },
+    "problem": {
+      "fr": "Créer manuellement une page de présentation pour chaque produit prend du temps.",
+      "en": "Manually creating a presentation page for every product takes time."
+    },
+    "features": [
+      {
+        "fr": "Modèle de landing page réutilisable et adapté au mobile",
+        "en": "Reusable mobile-friendly landing page template"
+      },
+      {
+        "fr": "Fiches produits centralisées dans Airtable",
+        "en": "Product records centralized in Airtable"
+      },
+      {
+        "fr": "Génération de pages et liaison au catalogue envisagées",
+        "en": "Planned page generation and catalog links"
+      },
+      {
+        "fr": "Publication sur Systeme.io envisagée",
+        "en": "Planned publication on Systeme.io"
+      }
+    ],
+    "story": {
+      "fr": "Présenter simplement chaque application et automatiser la création de ses pages.",
+      "en": "Present every app clearly and automate page creation."
+    },
+    "stack": [
+      "Airtable",
+      "Make",
+      "Systeme.io"
+    ],
+    "url": "",
+    "note": {
+      "fr": "Concept cadré. La génération et le mécanisme de publication restent à construire et vérifier.",
+      "en": "Scoped concept. Generation and publishing mechanisms still need implementation and verification."
+    },
+    "color": "pink",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "apb-guardian",
+    "name": "APB Guardian",
+    "category": "business",
+    "status": "concept",
+    "kind": {
+      "fr": "Agent de revue envisagé",
+      "en": "Planned review agent"
+    },
+    "tag": {
+      "fr": "Documenter la confidentialité et la sécurité de chaque création.",
+      "en": "Document privacy and security for every creation."
+    },
+    "audience": {
+      "fr": "Créatrices d’apps, SaaS et automatisations.",
+      "en": "App, SaaS and automation creators."
+    },
+    "problem": {
+      "fr": "Chaque solution traite des données différentes et nécessite une documentation adaptée.",
+      "en": "Every solution handles different data and needs tailored documentation."
+    },
+    "features": [
+      {
+        "fr": "Inventaire des données et des traitements envisagé",
+        "en": "Planned data and processing inventory"
+      },
+      {
+        "fr": "Revue des mesures de sécurité envisagée",
+        "en": "Planned security-measure review"
+      },
+      {
+        "fr": "Préparation d’un dossier documentaire par projet",
+        "en": "Prepare project-specific documentation"
+      },
+      {
+        "fr": "Points à corriger et validations nécessaires",
+        "en": "Issues to address and checks needed"
+      }
+    ],
+    "story": {
+      "fr": "Avoir un assistant qui examine mes créations et prépare leur dossier de confidentialité et de sécurité.",
+      "en": "Have an assistant review my creations and prepare their privacy and security documentation."
+    },
+    "stack": [
+      "Outils à définir / Tools to be defined"
+    ],
+    "url": "",
+    "note": {
+      "fr": "Idée à concevoir et tester. Aucun agent construit ni conformité certifiée à ce stade.",
+      "en": "Idea to design and test. No built agent or certified compliance at this stage."
+    },
+    "color": "blue",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "planner-automne",
+    "name": "Planner d’automne",
+    "category": "daily",
+    "status": "build",
+    "kind": {
+      "fr": "Planner digital imprimable",
+      "en": "Printable digital planner"
+    },
+    "tag": {
+      "fr": "Trois mois pour organiser ses envies et ses priorités.",
+      "en": "Three months to organize goals and priorities."
+    },
+    "audience": {
+      "fr": "Personnes souhaitant planifier leur trimestre avec un support imprimable.",
+      "en": "People who want a printable quarterly planning tool."
+    },
+    "problem": {
+      "fr": "Une simple liste de tâches ne donne pas toujours une vue d’ensemble de la saison.",
+      "en": "A task list does not always provide a view of the whole season."
+    },
+    "features": [
+      {
+        "fr": "25 pages et format trimestriel non daté",
+        "en": "25 pages and an undated quarterly format"
+      },
+      {
+        "fr": "Intentions et trois calendriers mensuels",
+        "en": "Intentions and three monthly calendars"
+      },
+      {
+        "fr": "Treize plannings hebdomadaires",
+        "en": "Thirteen weekly plans"
+      },
+      {
+        "fr": "Six modèles réutilisables et bilan de saison",
+        "en": "Six reusable templates and a seasonal review"
+      }
+    ],
+    "story": {
+      "fr": "Un planner plus complet pour relier les intentions de la saison aux actions de chaque semaine.",
+      "en": "A fuller planner connecting seasonal intentions with weekly actions."
+    },
+    "stack": [
+      "Replit",
+      "HTML",
+      "PDF"
+    ],
+    "url": "",
+    "note": {
+      "fr": "Version HTML de 25 pages préparée. Vérification de l’impression et du PDF encore à finaliser avant diffusion.",
+      "en": "25-page HTML version prepared. Print and PDF verification still needs completion before release."
+    },
+    "color": "orange",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "efficapture",
+    "name": "EffiCapture",
+    "category": "daily",
+    "status": "concept",
+    "kind": {
+      "fr": "Bot de capture envisagé",
+      "en": "Planned capture bot"
+    },
+    "tag": {
+      "fr": "Déposer une information et la retrouver facilement.",
+      "en": "Capture information and find it easily."
+    },
+    "audience": {
+      "fr": "Personnes qui accumulent des idées et informations au quotidien.",
+      "en": "People collecting everyday ideas and information."
+    },
+    "problem": {
+      "fr": "Les informations utiles se dispersent et deviennent difficiles à retrouver.",
+      "en": "Useful information gets scattered and becomes hard to find."
+    },
+    "features": [
+      {
+        "fr": "Capture via Telegram envisagée",
+        "en": "Planned Telegram capture"
+      },
+      {
+        "fr": "Recherche dans les informations enregistrées",
+        "en": "Search saved information"
+      }
+    ],
+    "story": {
+      "fr": "Un point d’entrée simple pour conserver et retrouver ce qui mérite d’être gardé.",
+      "en": "A simple entry point to save and retrieve useful information."
+    },
+    "stack": [
+      "Telegram"
+    ],
+    "url": "",
+    "note": {
+      "fr": "Concept évoqué ; réalisation et périmètre détaillé à confirmer.",
+      "en": "Discussed concept; implementation and detailed scope to confirm."
+    },
+    "color": "pink",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "risk-manager",
+    "name": "Risk Manager · EffiQualify",
+    "category": "business",
+    "status": "test",
+    "kind": {
+      "fr": "Qualification de prospects",
+      "en": "Prospect qualification"
+    },
+    "tag": {
+      "fr": "Des critères explicites pour qualifier les prospects.",
+      "en": "Explicit criteria for prospect qualification."
+    },
+    "audience": {
+      "fr": "Équipes souhaitant structurer leur qualification commerciale.",
+      "en": "Teams wanting structured sales qualification."
+    },
+    "problem": {
+      "fr": "Une qualification manuelle rend les décisions difficiles à comparer.",
+      "en": "Manual qualification makes decisions harder to compare."
+    },
+    "features": [
+      {
+        "fr": "Critères de qualification oui/non",
+        "en": "Yes/no qualification criteria"
+      },
+      {
+        "fr": "Calcul automatique du score",
+        "en": "Automatic score calculation"
+      },
+      {
+        "fr": "Verdict selon les règles définies",
+        "en": "Decision based on defined rules"
+      },
+      {
+        "fr": "Interface de consultation et de mise à jour",
+        "en": "View and update interface"
+      }
+    ],
+    "story": {
+      "fr": "Transformer une méthode de qualification en un outil structuré et réutilisable.",
+      "en": "Turn a qualification method into a structured reusable tool."
+    },
+    "stack": [
+      "Airtable",
+      "Excel"
+    ],
+    "url": "",
+    "note": {
+      "fr": "MVP construit et testé. Présentation générique uniquement ; les données et règles confidentielles des clients ne sont pas publiées.",
+      "en": "MVP built and tested. Generic presentation only; confidential client data and rules are not published."
+    },
+    "color": "blue",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "onboarding360",
+    "name": "Onboarding Client 360°",
+    "category": "business",
+    "status": "service",
+    "kind": {
+      "fr": "Template Airtable",
+      "en": "Airtable template"
+    },
+    "tag": {
+      "fr": "Un accueil client organisé dès le départ.",
+      "en": "Organized client onboarding from the start."
+    },
+    "audience": {
+      "fr": "Indépendants et petites équipes de services.",
+      "en": "Freelancers and small service teams."
+    },
+    "problem": {
+      "fr": "Les informations et pièces manquantes retardent le démarrage des missions.",
+      "en": "Missing information and documents delay project starts."
+    },
+    "features": [
+      {
+        "fr": "Centralisation des informations clients",
+        "en": "Centralize client information"
+      },
+      {
+        "fr": "Checklist des étapes d’accueil",
+        "en": "Onboarding checklist"
+      },
+      {
+        "fr": "Suivi des documents et échéances",
+        "en": "Track documents and deadlines"
+      }
+    ],
+    "story": {
+      "fr": "Transformer mes processus administratifs en un support réutilisable pour accueillir les clients.",
+      "en": "Turn my administrative processes into a reusable client onboarding tool."
+    },
+    "stack": [
+      "Airtable"
+    ],
+    "url": "",
+    "note": {
+      "fr": "Template proposé comme produit digital. Adaptation possible aux processus de chaque activité.",
+      "en": "Template offered as a digital product. Can be adapted to business-specific processes."
+    },
+    "color": "orange",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "sprint-precompta",
+    "name": "Sprint Pré-comptabilité",
+    "category": "business",
+    "status": "service",
+    "kind": {
+      "fr": "Service de rattrapage administratif",
+      "en": "Administrative catch-up service"
+    },
+    "tag": {
+      "fr": "Des justificatifs classés et des manquants identifiés.",
+      "en": "Organized receipts and clearly identified missing documents."
+    },
+    "audience": {
+      "fr": "Dirigeants de petites structures et cabinets comptables.",
+      "en": "Small-business owners and accounting firms."
+    },
+    "problem": {
+      "fr": "Les justificatifs dispersés et manquants ralentissent la préparation comptable.",
+      "en": "Scattered and missing receipts delay accounting preparation."
+    },
+    "features": [
+      {
+        "fr": "Tri, numérisation et classement des pièces",
+        "en": "Sort, scan and organize documents"
+      },
+      {
+        "fr": "Rapprochement des justificatifs et transactions",
+        "en": "Match receipts to transactions"
+      },
+      {
+        "fr": "Dépôt partagé et liste des pièces manquantes",
+        "en": "Shared delivery and missing-document list"
+      },
+      {
+        "fr": "Cap Rattrapage : 5 h / 175 € HT ; Cap Sérénité : 10 h / 350 € HT",
+        "en": "Cap Rattrapage: 5 h / €175 excl. tax; Cap Sérénité: 10 h / €350 excl. tax"
+      }
+    ],
+    "story": {
+      "fr": "Une offre concrète issue du rattrapage de dossiers et de justificatifs pour les petites structures.",
+      "en": "A practical offer based on catching up small-business documents and receipts."
+    },
+    "stack": [
+      "Google Drive",
+      "Google Sheets"
+    ],
+    "url": "",
+    "note": {
+      "fr": "Offres définies et disponibles. Le périmètre de chaque bloc est convenu au démarrage.",
+      "en": "Defined offers available. Each block’s scope is agreed at the start."
+    },
+    "color": "orange",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "audit-collectivites",
+    "name": "Audit des processus · Collectivités",
+    "category": "business",
+    "status": "build",
+    "kind": {
+      "fr": "Diagnostic et conseil",
+      "en": "Diagnosis and consulting"
+    },
+    "tag": {
+      "fr": "Rendre le parcours d’une demande plus lisible.",
+      "en": "Make the path of a request clearer."
+    },
+    "audience": {
+      "fr": "Collectivités et services administratifs.",
+      "en": "Local authorities and administrative departments."
+    },
+    "problem": {
+      "fr": "Les étapes, transmissions et délais du contact entrant manquent parfois de visibilité.",
+      "en": "Incoming-request steps, handoffs and delays can lack visibility."
+    },
+    "features": [
+      {
+        "fr": "Entretiens et observation des pratiques",
+        "en": "Interviews and observation"
+      },
+      {
+        "fr": "Cartographie des étapes et transmissions",
+        "en": "Map steps and handoffs"
+      },
+      {
+        "fr": "Analyse de la traçabilité et des délais",
+        "en": "Analyze traceability and delays"
+      },
+      {
+        "fr": "Recommandations priorisées et restitution",
+        "en": "Prioritized recommendations and presentation"
+      }
+    ],
+    "story": {
+      "fr": "Une mission pilote pour comprendre le circuit du contact entrant et proposer des améliorations concrètes.",
+      "en": "A pilot engagement to understand incoming-request handling and propose practical improvements."
+    },
+    "stack": [
+      "Cartographie / Process mapping",
+      "Entretiens / Interviews"
+    ],
+    "url": "",
+    "note": {
+      "fr": "Mission pilote en préparation à Sannois. Diagnostic et conseil ; aucune installation technique dans le périmètre du pilote.",
+      "en": "Pilot engagement in preparation in Sannois. Diagnosis and consulting; no technical installation within pilot scope."
+    },
+    "color": "blue",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "assistpro-academy",
+    "name": "AssistPro Academy Africa",
+    "category": "community",
+    "status": "build",
+    "kind": {
+      "fr": "Formation et kits pratiques",
+      "en": "Training and practical kits"
+    },
+    "tag": {
+      "fr": "Exceller dans son poste avec des méthodes et des outils concrets.",
+      "en": "Excel in your role with practical methods and tools."
+    },
+    "audience": {
+      "fr": "Assistantes administratives africaines francophones déjà en poste ; premier marché : Côte d’Ivoire.",
+      "en": "French-speaking administrative assistants working in Africa; initial market: Côte d’Ivoire."
+    },
+    "problem": {
+      "fr": "Les ressources doivent répondre aux situations réelles du travail administratif.",
+      "en": "Resources need to address real administrative work situations."
+    },
+    "features": [
+      {
+        "fr": "Organisation et efficacité professionnelle",
+        "en": "Organization and professional effectiveness"
+      },
+      {
+        "fr": "Processus, outils numériques et IA appliqués",
+        "en": "Processes, digital tools and applied AI"
+      },
+      {
+        "fr": "Kits courts, templates et cas pratiques",
+        "en": "Short kits, templates and practical cases"
+      },
+      {
+        "fr": "Format initial sur sept jours, sans vidéo obligatoire",
+        "en": "Initial seven-day format with no mandatory video"
+      }
+    ],
+    "story": {
+      "fr": "Transmettre mes méthodes aux assistantes pour les aider à exceller dans leur fonction actuelle.",
+      "en": "Share my methods to help assistants excel in their current role."
+    },
+    "stack": [
+      "Templates",
+      "Ressources pratiques / Practical resources"
+    ],
+    "url": "",
+    "note": {
+      "fr": "Positionnement et format MVP définis. Kits et programme en préparation ; Le Cercle constitue la communauté associée.",
+      "en": "Positioning and MVP format defined. Kits and program in preparation; Le Cercle is the related community."
+    },
+    "color": "pink",
+    "linkType": "catalog",
+    "updatedAt": "2026-11-01"
+  }
+]
